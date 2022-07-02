@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Group1_ComplaintTrackinSystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Group1_ComplaintTrackinSystem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Group1_ComplaintTrackinSystem-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Group1_ComplaintTrackinSystem:war exploded" />
+    </root>
+  </artifact>
+</component>
